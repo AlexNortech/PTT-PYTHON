@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>Logo Terrones Digital_rojo.png</file>
+    <file>background-1789175_960_720.png</file>
+    <file>background-2388586_960_720.png</file>
+    <file>papel.png</file>
+    <file>piedra.png</file>
+    <file>tijera.png</file>
+  </qresource>
+</RCC>
